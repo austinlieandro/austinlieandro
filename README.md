@@ -60,3 +60,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
 </div>
+
+<h3 align="left">Most Used Languages on Repo:</h3>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=austinlieandro)](https://github.com/anuraghazra/github-readme-stats)
