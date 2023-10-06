@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **JavaScript, Flutter, Kotlin**
 
-- 👨‍💻 All of my projects are available at [https://github.com/austinlieandro](https://github.com/austinlieandro)
+- 👨‍💻 All of my projects are available at <a href="https://github.com/austinlieandro">**Github**</a>
 
 - 📫 How to reach me **austinlieandro000@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/austinlieandro/](https://www.linkedin.com/in/austinlieandro/)
+- 📄 Know about my experiences <a href="https://www.linkedin.com/in/austinlieandro/">Linkedin</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
