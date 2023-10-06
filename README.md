@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Austin Lieandro</h1>
 <h3 align="center">A passionate mobile developer with a strong focus on Android app development using Kotlin. I thrive on creating elegant and user-friendly applications that solve real-world problems.</h3>
 
-<h1 align="center">What I Bring</h1>
+<h1 align="left">What I Bring</h1>
 
 - 🌱 I’m currently learning **JavaScript, Flutter, Kotlin**
 
