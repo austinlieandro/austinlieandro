@@ -6,10 +6,6 @@
 - 🌱 I’m currently learning **JavaScript, Flutter, Kotlin**
 
 - 📱 I have a solid background in Android app development, using Android Studio as my playground. Kotlin is my preferred language, and I love crafting clean, efficient, and maintainable code.
-  
-- 🌍 I believe that the tech world is constantly evolving, and I'm always eager to embrace the latest trends and technologies. Learning is not just a hobby; it's a way of life for me.
-  
-- 🔎 I'm particularly interested in building apps that can make a positive impact on people's lives.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
