@@ -3,7 +3,7 @@
 
 <h1 align="left">What I Bring</h1>
 
-- 🌱 I’m currently learning **JavaScript, Flutter, Kotlin**
+- 🌱 I’m currently learning **JavaScript, Flutter, Kotlin and How to build RESTFUL API**
 
 - 📱 I have a solid background in Android app development, using Android Studio as my playground. Kotlin is my preferred language, and I love crafting clean, efficient, and maintainable code.
 
