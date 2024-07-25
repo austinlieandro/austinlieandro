@@ -3,7 +3,7 @@
 
 <h1 align="left">What I Bring</h1>
 
-- 🌱 I’m currently learning **Flutter, Kotlin and How to build RESTFUL API**
+- 🌱 I’m currently learning **Kotlin and How to build RESTFUL API**
 
 - 📱 I have a solid background in Android app development, using Android Studio as my playground. Kotlin is my preferred language, and I love crafting clean, efficient, and maintainable code.
 
@@ -21,11 +21,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
 </div>
